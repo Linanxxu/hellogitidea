@@ -16,5 +16,6 @@ public class HelloGit {
         System.out.println("def");
         System.out.println("abc");
         System.out.println("在线编辑");
+        System.out.println("clone");
     }
 }
