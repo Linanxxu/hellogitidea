@@ -19,5 +19,8 @@ public class HelloGit {
         System.out.println("clone");
         System.out.println(1111);
         System.out.println("直接clone下来可以直接push");
+        String s1 = "X";
+        String s2  = s1 + "LN";
+        System.out.println(s2);
     }
 }
