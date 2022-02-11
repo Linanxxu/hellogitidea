@@ -18,5 +18,6 @@ public class HelloGit {
         System.out.println("在线编辑");
         System.out.println("clone");
         System.out.println(1111);
+        System.out.println("直接clone下来可以直接push");
     }
 }
